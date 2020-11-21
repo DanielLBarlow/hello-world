@@ -1,2 +1,2 @@
 # hello-world
-Just another repository
+Just another human trying to understand how git works
